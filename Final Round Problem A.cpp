@@ -1,5 +1,5 @@
 /*
-      problem link: 
+      problem link: https://codeforces.com/contest/1345/problem/B
 */
 
 // if you look .. you could find a pattern .. the smallest triangle needs 2 cards .. then needs 5 then 11 then 20 and so on
